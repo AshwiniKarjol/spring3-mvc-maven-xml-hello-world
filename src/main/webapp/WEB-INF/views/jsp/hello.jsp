@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Helloworld Devops Project!
+			Welcome to the world of Devops!
 		</c:if>
     </p>
     <p>
